@@ -1,5 +1,5 @@
 {
-  "name": "opentracing/opentracing",
+  "name": "mix/opentracing",
   "type": "library",
   "description": "OpenTracing API for PHP",
   "license": "Apache-2.0",
